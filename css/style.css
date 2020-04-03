@@ -45,6 +45,12 @@ a:active {
     color: #0f72c1;
 }
 
+/*
+p {
+  text-align: justify;
+}
+*/
+
 .subheading {
     /*text-transform: uppercase;*/
     font-weight: 500;
